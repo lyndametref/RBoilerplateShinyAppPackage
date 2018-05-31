@@ -1,7 +1,7 @@
-Package: shinyappPackageBoilerplate
+Package: RBoilerplateShinyAppPackage
 Title: Boilerplate for a packaged shiny app
 Version: 0.1
-Authors@R: person("Lynda", "Metref", email = "lynda.metref@gamil.com", role = c("aut", "cre"))
+Authors@R: person("Lynda", "Metref", email = "lynda.metref@gmail.com", role = c("aut", "cre"))
 Description: Boilerplate for a packaged shiny app. Rstudio shiny app snippet used as base for shiny app.
 Depends: R (>= 3.2.3)
 Imports: shiny

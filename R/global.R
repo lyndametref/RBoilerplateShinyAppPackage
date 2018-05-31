@@ -7,5 +7,5 @@
 #' @examples
 launch <- function(app_port=8888)
 {
-  shiny::runApp(port = app_port, appDir = system.file(package = "shinyappPackageBoilerplate"))
+  shiny::runApp(port = app_port, appDir = system.file(package = "RBoilerplateShinyAppPackage"))
 }
