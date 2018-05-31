@@ -22,3 +22,6 @@ to xxxx.
 Error in startServer(host, port, handlerManager$createHttpuvApp()) : 
   Failed to create server 
 ```
+
+## Referencres
+https://deanattali.com/2015/04/21/r-package-shiny-app/
