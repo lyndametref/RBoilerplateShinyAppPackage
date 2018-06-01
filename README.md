@@ -1,7 +1,7 @@
 # RBoilerplateShinyAppPackage
 
-Boiletplate project to create a packaged Shinny App, inlcuding a package 
-compatible file structure and an RStudio Project configured for the build.
+Boilerplate project to create a packaged Shinny App, including a package 
+compatible file structure and an R-Studio Project configured for the build.
 
 
 ## Build and Install
@@ -14,14 +14,14 @@ launch()
 ```
 
 ## Some Notes
-- By deflault the app will run on port 8888, `launch(xxxx)` will change the port
+- By default the app will run on port 8888, `launch(xxxx)` will change the port
 to xxxx.
-- Build Source Pacakge will save the tar.gz file in the parent folder
+- Build Source Package will save the tar.gz file in the parent folder
 - the following error mean probably that the specified port is not available
 ```
 Error in startServer(host, port, handlerManager$createHttpuvApp()) : 
   Failed to create server 
 ```
 
-## Referencres
+## References
 https://deanattali.com/2015/04/21/r-package-shiny-app/
