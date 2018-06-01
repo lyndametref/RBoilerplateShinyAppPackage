@@ -25,3 +25,4 @@ Error in startServer(host, port, handlerManager$createHttpuvApp()) :
 
 ## References
 https://deanattali.com/2015/04/21/r-package-shiny-app/
+Template app was provided by RStudio new Shiny App Wizard: http://shiny.rstudio.com/
